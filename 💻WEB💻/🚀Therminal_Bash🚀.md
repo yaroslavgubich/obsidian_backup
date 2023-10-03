@@ -304,3 +304,41 @@ Remember:
 3. If the file is in another directory, you can provide the full path or navigate to the directory first.
 
 Note: The `mv` command also serves the purpose of moving files and directories from one location to another, but when used in the same directory, it effectively renames the file or directory.
+
+____
+Sure, there are various ways to end a terminal session or stop code that is currently running:
+
+1. **Stopping Running Code**:
+   
+   - **Ctrl + C**: This is the most common way to send an interrupt signal (`SIGINT`) to a running process. It will terminate the process in most cases.
+   
+   - **Ctrl + \**: Sends a `SIGQUIT` signal to the running process, which not only stops the process but also creates a core dump, a file containing detailed information about the process's state at the time of termination. This can be useful for debugging.
+
+   - **Ctrl + Z**: Suspends the current process by sending it a `SIGTSTP` signal. This doesn't end the session, but it pauses the running process and gives control back to the shell. You can then manage this process with job control commands like `bg` (to run it in the background) or `fg` (to bring it back to the foreground).
+
+2. **Ending Terminal Session**:
+
+   - **`exit` command**: Simply type `exit` and press Enter. This is the standard way to end a terminal session.
+   
+   - **Ctrl + D**: Sends an end-of-file (EOF) character, which in many contexts will exit the shell session. This is equivalent to running the `exit` command.
+   
+   - **`logout` command**: This is used mainly in shells where you've logged in as a different user or via remote sessions like SSH. It logs you out of the session.
+   
+   - **Closing the terminal window**: If you're working in a GUI environment, you can simply close the terminal window using the window's close button or the relevant keyboard shortcut.
+
+   - **Killing the terminal process**: If you need a more forceful way, you can kill the terminal process from another terminal or system monitor. First, find the process ID (PID) using `ps` and then use the `kill` command.
+
+     ```bash
+     ps aux | grep terminal_name
+     kill -9 PID
+     ```
+
+   - **`pkill` or `killall`**: These are utilities to send signals to processes by name. For example, `pkill -9 bash` would kill all instances of the `bash` shell. Use this method with caution.
+
+3. **Remote Sessions (like SSH)**:
+   
+   - **`exit` or Ctrl + D**: As mentioned earlier, both work to end the session.
+   
+   - **`~. (tilde dot)`**: If you're using SSH and it hangs or doesn't respond, typing `~` followed by a `.` will forcefully close the SSH client. Ensure the `~` character is the very first character you type after pressing Enter.
+
+Always be cautious when ending sessions or stopping processes, especially when working in production environments or on critical tasks. You may unintentionally terminate a crucial process or lose unsaved work.

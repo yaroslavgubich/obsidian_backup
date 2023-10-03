@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "b4d02e5d30c521f5",
+            "id": "fdbff3e8683e7aec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,6 +28,16 @@
                 "file": "💻WEB💻/🚀Therminal_Bash🚀.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "ac196dc8e7cfe886",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
               }
             }
           }
@@ -170,13 +180,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81c654c5e1276222",
+  "active": "fdbff3e8683e7aec",
   "lastOpenFiles": [
-    "💻WEB💻/🍭css🍭/Code snippets.md",
-    "💻WEB💻/🐱GIT🐱/git stash.md",
     "💻WEB💻/🐱GIT🐱/🐱GIT methods🐱.md",
-    "💻WEB💻/🚀Therminal_Bash🚀.md",
+    "💻WEB💻/🐱GIT🐱/git stash.md",
+    "Responsive.md",
     "Untitled",
+    "💻WEB💻/🚀Therminal_Bash🚀.md",
+    "💻WEB💻/🍭css🍭/Code snippets.md",
     "💻WEB💻/🍭css🍭/Animations, effects.md",
     "🗿Obsidian🗿/hotkeys.md",
     "🗿Obsidian🗿",
