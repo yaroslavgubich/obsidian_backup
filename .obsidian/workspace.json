@@ -1,130 +1,96 @@
 {
   "main": {
-    "id": "498b07b5c8dff467",
+    "id": "d3aa4845533f16bf",
     "type": "split",
     "children": [
       {
-        "id": "272886f3e283b84f",
+        "id": "2d3b56231397344b",
         "type": "tabs",
         "children": [
           {
-            "id": "1733cd9a00a43315",
+            "id": "86b7373d0703f25d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "terminals/shortcuts.md",
+                "file": "🧐🧵🛝CMS/headless SMC/Sanity.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Sanity"
             }
           },
           {
-            "id": "d0d8a39e0fed448b",
+            "id": "e226ae6f83d5c6ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻WEB💻/🟨Javascript🟨/DOM manipulations.md",
+                "file": "💻WEB💻/⏩next.js 14/Scripts and snippets for building.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Scripts and snippets for building"
             }
           },
           {
-            "id": "731c6057a43262af",
+            "id": "99dea533020890d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻WEB💻/💎🔴Ruby💎🔴/ruby on rails cheat sheet.md",
+                "file": "💻WEB💻/⏩next.js 14/Scripts and snippets for building.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Scripts and snippets for building"
             }
           },
           {
-            "id": "1140420738653d84",
+            "id": "0bc266450edd3c34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻WEB💻/🐱GIT🐱/🐱GIT methods🐱.md",
+                "file": "💻WEB💻/🚀Therminal_Bash🚀.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "806ba61ce1a8dfe5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.2"
-              }
-            }
-          },
-          {
-            "id": "09443cb1785cb50e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💻WEB💻/🐱GIT🐱/Conventions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9ddbb618ba29145",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
-            "id": "06004fab2604b2b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💻WEB💻/DataBases/💎Active Record.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "🚀Therminal_Bash🚀"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5adc8ec597326404",
+    "id": "976a0df3471c83eb",
     "type": "split",
     "children": [
       {
-        "id": "3c33d38ff9e3c389",
+        "id": "f1cf5736a25f66d9",
         "type": "tabs",
         "children": [
           {
-            "id": "81c654c5e1276222",
+            "id": "c53d6a9100eb8abb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "2ddb7c1df00da7c6",
+            "id": "6c700bc8e50692c1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -135,38 +101,42 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "89bb735b71b82928",
+            "id": "9a384297cae769c1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "6d4a7655e3fea6c3",
+    "id": "d147394c2dad0e62",
     "type": "split",
     "children": [
       {
-        "id": "7d314fc2a08be7c1",
+        "id": "e3a43b079f32f049",
         "type": "tabs",
         "children": [
           {
-            "id": "789aecee29eac2ae",
+            "id": "18030e11cb87dbad",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻WEB💻/🐱GIT🐱/Conventions.md",
+                "file": "💻WEB💻/📦🔧Package managers/e-commerce set up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,44 +144,40 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for e-commerce set up"
             }
           },
           {
-            "id": "1518e40512654b92",
+            "id": "d26a6edcedaac0a1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💻WEB💻/🐱GIT🐱/Conventions.md",
+                "file": "💻WEB💻/📦🔧Package managers/e-commerce set up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from e-commerce set up"
             }
           },
           {
-            "id": "abcb71965bab72d0",
+            "id": "42a076772bdc7b44",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
-              }
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "20bf7ef85f14f170",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "💻WEB💻/🐱GIT🐱/Conventions.md"
-              }
-            }
-          },
-          {
-            "id": "c9cce28420786fb5",
+            "id": "e58791c08ac719af",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -219,15 +185,29 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7b54096625a78644",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "💻WEB💻/📦🔧Package managers/e-commerce set up.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of e-commerce set up"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,54 +219,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09443cb1785cb50e",
+  "active": "0bc266450edd3c34",
   "lastOpenFiles": [
+    "💻WEB💻/Templates 🗒️.md",
     "💻WEB💻/🚀bash🚀.md",
-    "💻WEB💻/🐱GIT🐱/Conventions.md",
-    "💻WEB💻/🐱GIT🐱/Templates 🗒️.md",
+    "💻WEB💻/🚀Therminal_Bash🚀.md",
+    "Vs Code shortcuts.md",
+    "💻WEB💻/⏩next.js 14/Scripts and snippets for building.md",
     "💻WEB💻/🐱GIT🐱/🐱GIT methods🐱.md",
-    "💻WEB💻/solutions 💊/Rails solutions.md",
-    "💻WEB💻/💎🔴Ruby💎🔴/🪲🐞Debuging.md",
-    "bugfixes 🪲/Rails.md",
-    "bugfixes 🪲",
-    "Air BnB project.md",
-    "💻WEB💻/💎🔴Ruby💎🔴/ruby on rails cheat sheet.md",
-    "Untitled 4",
-    "Untitled 3",
-    "Pasted image 20240523092942.png",
-    "💻WEB💻/🐱GIT🐱/git history.md",
-    "💻WEB💻/solutions 💊/ruby solutions.md",
-    "💻WEB💻/🤯Problem solving🤯/Pipeline todo.md",
-    "💻WEB💻/solutions 💊",
-    "💻WEB💻/🔧WEB Tools 🔧/Import map.md",
+    "🧐🧵🛝CMS/headless SMC/Sanity.md",
+    "📦🔧🧵sanity",
+    "Untitled 2.canvas",
+    "💻WEB💻/🟨Javascript🟨/import export.md",
+    "💻WEB💻/⏩next.js 14",
     "💻WEB💻/🔧WEB Tools 🔧/AJAX.md",
-    "💻WEB💻/Toolset",
-    "Pasted image 20240427141255.png",
-    "Pasted image 20240427141238.png",
+    "💻WEB💻/🟨Javascript🟨/Code snippets.md",
     "💻WEB💻/🟨Javascript🟨/DOM manipulations.md",
     "💻WEB💻/🟨Javascript🟨/DOM problem solving.md",
-    "Untitled 2",
-    "💻WEB💻/🍭css🍭/layout.md",
-    "💻WEB💻/🍭css🍭/Animations, effects.md",
-    "💻WEB💻/🐱GIT🐱/Cheatsheet online.md",
-    "💻WEB💻/🐱GIT🐱/github and cli.md",
-    "💻WEB💻/DataBases/💎Active Record.md",
-    "💻WEB💻/Design/Figma Shortcuts.md",
-    "💻WEB💻/🍭css🍭/snippets.md",
-    "Untitled 1",
-    "💻WEB💻/🐱GIT🐱/Git fix mistake or upload previous version.md",
-    "💻WEB💻/🤯Problem solving🤯/Pipeline🟥.md",
-    "terminals/bash",
-    "terminals/shortcuts.md",
-    "terminals",
-    "Pasted image 20240319161157.png",
-    "💻WEB💻/DataBases",
-    "Pasted image 20240316152438.png",
-    "Pasted image 20240316114844.png",
-    "Pasted image 20240314131532.png",
-    "Pasted image 20240314100922.png",
-    "Pasted image 20240314100839.png",
-    "Pasted image 20240314100830.png",
-    "Untitled.canvas"
+    "💻WEB💻/🟨Javascript🟨/Interactions.md",
+    "💻WEB💻/🔧WEB Tools 🔧/Import map.md",
+    "💻WEB💻/📦🔧Package managers/e-commerce set up.md",
+    "🧐🧵🛝CMS/headless SMC",
+    "🧐🧵🛝CMS",
+    "💻WEB💻/📦🔧Package managers"
   ]
 }

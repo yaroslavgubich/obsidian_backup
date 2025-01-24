@@ -206,3 +206,13 @@ These methods should help you clear the console depending on your specific devel
 
 Conclusion:
 Clearing the console in a web development environment can be done using various methods, such as `console.clear()`, keyboard shortcuts, right-click context menus, and programmatic approaches like in Node.js. Choose the method that works best for your situation.
+
+#find #empty #files 
+```bash
+find . -type f -empty -print
+```
+
+#delete all #empty #files
+```bash
+find . -type f -empty -delete
+```
