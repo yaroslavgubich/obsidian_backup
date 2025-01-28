@@ -12,19 +12,19 @@ git push
 ```
 
 
-
+#push #template
 example: 
+
 ``` bash
 # Add all changes to staging
 git add .
 
 # Commit the changes with a detailed message
-git commit -m "add features: 
+git commit -m "fx : 
 
-- animated popular products 
-- width to each product 
-- 100 fake products
-- category products grid
+- navbar links and hydration 
+- footer links 
+
 "
 
 # Push the changes to the current branch

@@ -1,5 +1,36 @@
 #wrap #outline #container 
 
+
+
+#command to #fix #dependencies
+The `npm install --legacy-peer-deps` command bypasses strict peer dependency checks introduced in npm v7+. It allows the installation of dependencies even if there are version conflicts in peer dependencies. This mimics the behavior of npm v6 and earlier.
+
+### Example:
+
+If running:
+
+```bash
+npm install
+```
+
+results in:
+
+```
+npm ERR! Could not resolve dependency: peer dep X requires Y
+```
+
+You can bypass this error with:
+
+```bash
+npm install --legacy-peer-deps
+```
+
+### Key Points:
+
+- **Purpose**: Installs dependencies while ignoring peer dependency conflicts.
+- **Use Case**: Resolves installation errors caused by incompatible peer dependencies.
+- **Caution**: May lead to runtime issues if peer dependency conflicts are ignored. Use it as a temporary fix.
+
 Yes, there are a few handy shortcuts and tools available, depending on the code editor you're using. Since you mentioned that you're using Visual Studio Code (VS Code), here are a few ways to quickly wrap elements or add styles:
 
 ### 1. **Emmet Abbreviations**

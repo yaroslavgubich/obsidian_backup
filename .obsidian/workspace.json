@@ -13,21 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧐🧵🛝CMS/headless SMC/Sanity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sanity"
-            }
-          },
-          {
-            "id": "e226ae6f83d5c6ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💻WEB💻/⏩next.js 14/Scripts and snippets for building.md",
+                "file": "1 WEB💻/next.js 14 ⏩/Scripts and snippets for building.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,35 +22,21 @@
             }
           },
           {
-            "id": "99dea533020890d1",
+            "id": "0ff4585145da8a0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻WEB💻/⏩next.js 14/Scripts and snippets for building.md",
+                "file": "1 WEB💻/GIT🐱/Command 💻cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scripts and snippets for building"
-            }
-          },
-          {
-            "id": "0bc266450edd3c34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💻WEB💻/🚀Therminal_Bash🚀.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🚀Therminal_Bash🚀"
+              "title": "Command 💻cheatsheet"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "clean",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,28 +192,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bc266450edd3c34",
+  "active": "0ff4585145da8a0d",
   "lastOpenFiles": [
-    "💻WEB💻/Templates 🗒️.md",
-    "💻WEB💻/🚀bash🚀.md",
-    "💻WEB💻/🚀Therminal_Bash🚀.md",
-    "Vs Code shortcuts.md",
-    "💻WEB💻/⏩next.js 14/Scripts and snippets for building.md",
-    "💻WEB💻/🐱GIT🐱/🐱GIT methods🐱.md",
-    "🧐🧵🛝CMS/headless SMC/Sanity.md",
-    "📦🔧🧵sanity",
+    "1 WEB💻/Templates ⚙🗒️.md",
+    "1 WEB💻/GIT🐱/🐱GIT methods🐱.md",
+    "Speed and Productivity.md",
+    "1 WEB💻/next.js 14 ⏩/Scripts and snippets for building.md",
+    "1 WEB💻/bash🚀🚀.md",
+    "1 WEB💻/GIT🐱/Command 💻cheatsheet.md",
+    "1 WEB💻/GIT🐱/git stash.md",
+    "1 WEB💻/GIT🐱/github and cli.md",
+    "1 WEB💻/GIT🐱/git history.md",
+    "1 WEB💻/GIT🐱/Git fix mistake or upload previous version.md",
+    "1 WEB💻/GIT🐱/Conventions.md",
+    "1 WEB💻/GIT🐱/Cheatsheet online.md",
+    "1 WEB💻/bugfixes 🪲/nextJS⏭️.md",
+    "pasted images/Pasted image 20231216195347.png",
+    "pasted images",
+    "Untitled.canvas",
+    "Air BnB project.md",
+    "1 WEB💻/resources.md",
+    "1 WEB💻/Responsive.md",
+    "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "💻WEB💻/🟨Javascript🟨/import export.md",
-    "💻WEB💻/⏩next.js 14",
-    "💻WEB💻/🔧WEB Tools 🔧/AJAX.md",
-    "💻WEB💻/🟨Javascript🟨/Code snippets.md",
-    "💻WEB💻/🟨Javascript🟨/DOM manipulations.md",
-    "💻WEB💻/🟨Javascript🟨/DOM problem solving.md",
-    "💻WEB💻/🟨Javascript🟨/Interactions.md",
-    "💻WEB💻/🔧WEB Tools 🔧/Import map.md",
-    "💻WEB💻/📦🔧Package managers/e-commerce set up.md",
-    "🧐🧵🛝CMS/headless SMC",
-    "🧐🧵🛝CMS",
-    "💻WEB💻/📦🔧Package managers"
+    "pasted image",
+    "pasted images/Pasted image 20240523092942.png",
+    "pasted images/Pasted image 20240427141255.png",
+    "pasted images/Pasted image 20240314131532.png",
+    "pasted images/Pasted image 20240209194519.png",
+    "pasted images/Pasted image 20240209184942.png",
+    "pasted images/Pasted image 20240207192045.png",
+    "pasted images/Pasted image 20240207185121.png",
+    "pasted images/Pasted image 20240104114353.png",
+    "pasted images/Pasted image 20231226164851.png",
+    "2024-07-01.md",
+    "HTML.md",
+    "2023-09-10.md",
+    "1 WEB💻/z active-record-ruby/active record.md",
+    "1 WEB💻/WebPortfolio/Materials and Concept.md",
+    "1 WEB💻/shortcuts.md",
+    "1 WEB💻/Vs Code shortcuts.md",
+    "2 Obsidian🗿/hotkeys.md",
+    "Planning.md",
+    "Pipeline🟥.md",
+    "1 WEB💻/CMS🧐🧵🛝/headless SMC",
+    "1 WEB💻/CMS🧐🧵🛝",
+    "1 WEB💻/Security🔒",
+    "1 WEB💻/Package managers📦🔧",
+    "1 WEB💻/Ruby💎🔴/ARRAYS",
+    "1 WEB💻/Ruby💎🔴",
+    "1 WEB💻/REGEX👾",
+    "1 WEB💻/GIT🐱"
   ]
 }
