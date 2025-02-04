@@ -20,10 +20,9 @@ example:
 git add .
 
 # Commit the changes with a detailed message
-git commit -m "fx : 
+git commit -m "add feaures : 
 
-- navbar links and hydration 
-- footer links 
+- authentification drowpdown with clerk
 
 "
 
