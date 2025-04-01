@@ -5,7 +5,29 @@
 - #jobScheduling`
 - #scriptScheduler#linux #task #scheduler is a time-based job scheduler in Unix-like operating systems. Here's how you can run and stop cron scripts in Linux:
 
+
+#log #cron #script
+
+```bash
+cat /home/yaroslav/test_cron.log
+```
+
+
 ---
+#open with #nano (the right way)
+```bash
+EDITOR=nano crontab -e
+
+```
+
+---
+
+real example >>
+```bash
+*/10 * * * * /home/yaroslav/code/yaroslavgubich/barco_fresh/barco_blanco_shop/scripts/backup.sh >> /home/yaroslav/code/yaroslavgubich/barco_fresh/barco_blanco_shop/error.log 2>&1
+
+* * * * * echo "Cron ran at $(date)" >> /home/yaroslav/test_cron.log
+```
 
 ## **Running Cron Scripts**
 

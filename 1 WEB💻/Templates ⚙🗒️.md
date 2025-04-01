@@ -20,13 +20,12 @@ example:
 git add .
 
 # Commit the changes with a detailed message
-git commit -m "add feaures : 
+git commit -m "fix vercel build: 
 
-- authentification drowpdown with clerk
-
+- fixed vercel build 
+- removed all occurrences of clerk 
+- removed all unused code snippets
 "
-
-# Push the changes to the current branch
 git push
 
 ```
