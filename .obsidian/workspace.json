@@ -25,12 +25,14 @@
             "id": "e7600a33ad58d294",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "career paths 🔧💵/freelance.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "freelance"
             }
           },
           {
@@ -220,6 +222,10 @@
   },
   "active": "e7600a33ad58d294",
   "lastOpenFiles": [
+    "career paths 🔧💵/junior corporate job.md",
+    "career paths 🔧💵/Student or trainee or intern.md",
+    "career paths 🔧💵/freelance.md",
+    "career paths 🔧💵",
     "1 WEB💻/Terminal Bash ZSH🚀🚀.md",
     "1 WEB💻/Templates ⚙🗒️.md",
     "1 WEB💻/css🍭/layout.md",
@@ -244,9 +250,6 @@
     "Speed and Productivity.md",
     "1 WEB💻/GIT🐱/git stash.md",
     "1 WEB💻/GIT🐱/github and cli.md",
-    "1 WEB💻/GIT🐱/Git fix mistake or upload previous version.md",
-    "1 WEB💻/GIT🐱/Conventions.md",
-    "1 WEB💻/GIT🐱/Cheatsheet online.md",
     "pasted images/Pasted image 20231216195347.png",
     "pasted images",
     "Untitled.canvas",
@@ -267,7 +270,6 @@
     "1 WEB💻/Security🔒",
     "1 WEB💻/Package managers📦🔧",
     "1 WEB💻/Ruby💎🔴/ARRAYS",
-    "1 WEB💻/Ruby💎🔴",
-    "1 WEB💻/REGEX👾"
+    "1 WEB💻/Ruby💎🔴"
   ]
 }
