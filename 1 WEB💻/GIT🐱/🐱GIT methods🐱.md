@@ -1,3 +1,223 @@
+
+
+
+
+#compare what is changed in example of #local and #remote #branch 
+
+
+
+
+
+Ah got it — then the correct command is:
+
+```bash
+git diff yar-feature origin/yar-feature
+```
+
+### ✅ Or if you are already **on `yar-feature` branch**, you can just run:
+
+```bash
+git diff origin/yar-feature
+```
+
+This shows all differences between your **local `yar-feature`** branch and the **remote `origin/yar-feature`**.
+
+---
+
+### 🧠 Bonus: Quick options
+
+| Goal                           | Command                                     |                                                                            |
+| ------------------------------ | ------------------------------------------- | -------------------------------------------------------------------------- |
+| Full diff                      | `git diff origin/yar-feature`               |                                                                            |
+| Summary of file + line changes | `git diff --stat origin/yar-feature`        |                                                                            |
+| Word-level diff                | `git diff --color-words origin/yar-feature` | 🏆 best one so far let's see full document with words changed like in lens |
+| Side-by-side GUI diff          | `git difftool origin/yar-feature`           |                                                                            |
+
+
+---
+
+**🔍 Full diff**
+
+```bash
+git diff origin/yar-feature
+```
+
+---
+
+**📊 Summary of file + line changes**
+
+```bash
+git diff --stat origin/yar-feature
+```
+
+---
+
+**🖍️ Word-level diff**
+
+```bash
+git diff --color-words origin/yar-feature
+```
+
+---
+
+**🪟 Side-by-side GUI diff**
+
+```bash
+git difftool origin/yar-feature
+```
+
+Let me know if you want a version to compare it the other way around (e.g., `origin/yar-feature` vs `main`, etc).
+
+
+
+
+
+
+
+
+
+Great question! Here's a clean and safe way to **compare your local `yar-feature` branch with the remote `origin/yar-feature`**, then reset your local branch to match the remote if you decide to.
+
+---
+
+## ✅ 1. #Compare #Local #branch`yar-feature` With #Remote
+
+First, make sure your local view of the remote is up-to-date:
+
+```bash
+git fetch origin
+```
+
+Then compare:
+
+```bash
+git diff yar-feature origin/yar-feature
+```
+
+> This shows what’s different between your **local** and **remote** versions of `yar-feature`.
+
+If you want a summary:
+
+```bash
+git log yar-feature..origin/yar-feature --oneline
+```
+
+This shows **commits on the remote** that are **not on your local**.
+
+Or:
+
+```bash
+git log origin/yar-feature..yar-feature --oneline
+```
+
+This shows **commits on your local** not in the **remote**.
+
+---
+
+## 🔄 2. #Reset #Local #Branch to #Match #Remote 
+
+Once you're sure you want to discard local changes and match remote exactly:
+
+```bash
+git reset --hard origin/yar-feature
+```
+
+---
+
+## 🧹 3. Optional: Clean up untracked files (if needed)
+
+If you want to also remove untracked files/directories:
+
+```bash
+git clean -fd
+```
+
+---
+
+Let me know if you want to **keep your local changes somewhere** (e.g. with a temporary branch or stash) before resetting.
+
+
+
+
+
+
+
+
+Perfect — here's exactly how to:
+
+---
+
+## ✅ 1. #Compare local `yar-feature` with #other #remote #branch `origin/dev`
+
+First, make sure you fetch the latest remote changes:
+
+```bash
+git fetch origin
+```
+
+Then compare:
+
+```bash
+git diff yar-feature origin/dev
+```
+
+> This shows line-by-line code differences between your **local `yar-feature`** and the **remote `origin/dev`**.
+
+If you want to compare commit history instead:
+
+```bash
+git log yar-feature..origin/dev --oneline
+```
+
+> Shows commits in `origin/dev` that are **not** in `yar-feature`.
+
+Or the reverse:
+
+```bash
+git log origin/dev..yar-feature --oneline
+```
+
+> Shows commits in `yar-feature` that are **not** in `origin/dev`.
+
+---
+
+## 🔄 2. #Reset #local #branch `yar-feature` to look like #another #remote #branch `origin/dev`
+
+Once you're sure you want to **replace** the local `yar-feature` with the state of `origin/dev`, run:
+
+```bash
+git checkout yar-feature
+git reset --hard origin/dev
+```
+
+Now your `yar-feature` branch has the exact same code and commit history as the remote `dev` branch.
+
+---
+
+Let me know if you'd like to **keep a backup** of `yar-feature` before resetting, just in case!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 If you simply want to save the current state of your working directory without committing and without affecting your working directory (i.e., without stashing and reverting), you have a few options:
 ___
 To see the #list of #pull #requests for your repository on GitHub, you can follow these steps:
@@ -663,3 +883,31 @@ If `origin/master` doesn't show the expected latest commit, there are a few poss
 
 If the `git log` command for `origin/master` still doesn't show the expected date or commit, I'd recommend cross-referencing with the GitHub web interface or the GitHub API to ensure you're looking at the correct repository and branch.
 >>>>>>> a6aaa35de7603db8d9137b742dd714f5aa19c7d1
+
+
+Got it! You now want to **push your local `yar-feature` branch to the remote**, overwriting the remote version.
+
+---
+
+## 🚀 #Force #Push Local `yar-feature` to Remote to #replace #remote to look like a #local one
+
+If you're 100% sure your **local `yar-feature`** is correct and you want the **remote `origin/yar-feature`** to match it:
+
+```bash
+git push origin yar-feature --force
+```
+
+> This will **overwrite the remote** `yar-feature` branch with your **local copy**.
+
+---
+
+## 🛑 Be Careful
+
+- This **replaces the remote branch**, deleting anything on it that's not in your local branch.
+    
+- Make sure nobody else is working off the remote `yar-feature`, or you'll overwrite their changes.
+    
+
+---
+
+Let me know if you want to make a backup first or if you're unsure about the consequences.

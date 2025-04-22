@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "career paths 🔧💵/freelance.md",
+                "file": "career paths 🔧💵/Student or trainee or intern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "freelance"
+              "title": "Student or trainee or intern"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 WEB💻/bugfixes 🪲/nextJS⏭️.md",
+                "file": "1 WEB💻/GIT🐱/🐱GIT methods🐱.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nextJS⏭️"
+              "title": "🐱GIT methods🐱"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "template",
+                "query": "tag:#Local",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,36 +221,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7600a33ad58d294",
+  "active": "25aced2f891d6121",
   "lastOpenFiles": [
-    "career paths 🔧💵/junior corporate job.md",
+    "1 WEB💻/GIT🐱/Cheatsheet online.md",
+    "1 WEB💻/GIT🐱/Command 💻cheatsheet.md",
+    "1 WEB💻/GIT🐱/github and cli.md",
+    "1 WEB💻/GIT🐱/git stash.md",
+    "1 WEB💻/GIT🐱/git history.md",
+    "1 WEB💻/GIT🐱/Git fix mistake or upload previous version.md",
+    "1 WEB💻/GIT🐱/Conventions.md",
+    "1 WEB💻/GIT🐱/🐱GIT methods🐱.md",
+    "1 WEB💻/next.js 14 ⏩/Scripts and snippets for building.md",
+    "Business/3d printing 🖨️.md",
+    "1 WEB💻/bugfixes 🪲/nextJS⏭️.md",
+    "Vercel 🔺.md",
     "career paths 🔧💵/Student or trainee or intern.md",
     "career paths 🔧💵/freelance.md",
+    "Yarn/Pasted image 20250417114406.png",
+    "Yarn",
+    "Business",
+    "career paths 🔧💵/junior corporate job.md",
     "career paths 🔧💵",
     "1 WEB💻/Terminal Bash ZSH🚀🚀.md",
     "1 WEB💻/Templates ⚙🗒️.md",
     "1 WEB💻/css🍭/layout.md",
     "1 WEB💻/Ruby💎🔴/🧊Classes OOP in Ruby.md",
-    "Vercel 🔺.md",
     "1 WEB💻/Linux🐧💻/Linux basics.md",
-    "1 WEB💻/bugfixes 🪲/nextJS⏭️.md",
     "1 WEB💻/Dev Icons.md",
     "1 WEB💻/bash🚀🚀.md",
     "ZSH.md",
     "Untitled",
     "1 WEB💻/CMS🧐🧵🛝/headless SMC/Sanity.md",
     "1 WEB💻/Ruby💎🔴/ruby on rails cheat sheet.md",
-    "1 WEB💻/GIT🐱/🐱GIT methods🐱.md",
-    "1 WEB💻/next.js 14 ⏩/Scripts and snippets for building.md",
     "1 WEB💻/DataBases/SQL 🛢️/SQL basics.md",
-    "1 WEB💻/GIT🐱/git history.md",
-    "1 WEB💻/WEB Tools 🔧/AJAX.md",
-    "Air BnB project.md",
-    "1 WEB💻/DataBases/💎Active Record.md",
-    "1 WEB💻/GIT🐱/Command 💻cheatsheet.md",
-    "Speed and Productivity.md",
-    "1 WEB💻/GIT🐱/git stash.md",
-    "1 WEB💻/GIT🐱/github and cli.md",
     "pasted images/Pasted image 20231216195347.png",
     "pasted images",
     "Untitled.canvas",
@@ -264,12 +268,9 @@
     "pasted images/Pasted image 20240207192045.png",
     "pasted images/Pasted image 20240207185121.png",
     "pasted images/Pasted image 20240104114353.png",
-    "pasted images/Pasted image 20231226164851.png",
     "1 WEB💻/CMS🧐🧵🛝/headless SMC",
     "1 WEB💻/CMS🧐🧵🛝",
     "1 WEB💻/Security🔒",
-    "1 WEB💻/Package managers📦🔧",
-    "1 WEB💻/Ruby💎🔴/ARRAYS",
-    "1 WEB💻/Ruby💎🔴"
+    "1 WEB💻/Package managers📦🔧"
   ]
 }
