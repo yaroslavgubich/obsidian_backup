@@ -53,12 +53,14 @@
             "id": "d12d34acf29d360d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "1 WEB💻/React ⚛️.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "React ⚛️"
             }
           },
           {
@@ -143,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -249,6 +250,9 @@
   },
   "active": "d12d34acf29d360d",
   "lastOpenFiles": [
+    "1 WEB💻/Fake project structure.md",
+    "1 WEB💻/React ⚛️.md",
+    "1 WEB💻/GIT🐱/git history.md",
     "1 WEB💻/Ruby💎🔴/🧊Classes OOP in Ruby.md",
     "1 WEB💻/WEB Tools 🔧/AJAX.md",
     "Air BnB project.md",
@@ -259,7 +263,6 @@
     "1 WEB💻/GIT🐱/Command 💻cheatsheet.md",
     "1 WEB💻/GIT🐱/github and cli.md",
     "1 WEB💻/GIT🐱/git stash.md",
-    "1 WEB💻/GIT🐱/git history.md",
     "1 WEB💻/GIT🐱/Git fix mistake or upload previous version.md",
     "1 WEB💻/GIT🐱/Conventions.md",
     "1 WEB💻/next.js 14 ⏩/Scripts and snippets for building.md",
@@ -277,8 +280,6 @@
     "1 WEB💻/css🍭/layout.md",
     "1 WEB💻/Linux🐧💻/Linux basics.md",
     "1 WEB💻/Dev Icons.md",
-    "1 WEB💻/bash🚀🚀.md",
-    "ZSH.md",
     "Untitled",
     "pasted images/Pasted image 20231216195347.png",
     "pasted images",

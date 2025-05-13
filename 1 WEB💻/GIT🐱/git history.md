@@ -1,6 +1,12 @@
 #git #history 
 
 
+
+
+
+
+
+
 If you're not referring to `git log` for viewing the Git history, you might be thinking of one of these other methods:
 
 ### 1. `git reflog`
