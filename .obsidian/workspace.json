@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 WEB💻/React ⚛️.md",
+                "file": "3d printing 🖨️ 🧊/Infill and strength.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React ⚛️"
+              "title": "Infill and strength"
             }
           },
           {
@@ -250,8 +250,11 @@
   },
   "active": "d12d34acf29d360d",
   "lastOpenFiles": [
-    "1 WEB💻/Fake project structure.md",
+    "Yarn/Pasted image 20250522125829.png",
     "1 WEB💻/React ⚛️.md",
+    "3d printing 🖨️ 🧊/Infill and strength.md",
+    "3d printing 🖨️ 🧊",
+    "1 WEB💻/Fake project structure.md",
     "1 WEB💻/GIT🐱/git history.md",
     "1 WEB💻/Ruby💎🔴/🧊Classes OOP in Ruby.md",
     "1 WEB💻/WEB Tools 🔧/AJAX.md",
@@ -278,8 +281,6 @@
     "career paths 🔧💵",
     "1 WEB💻/Terminal Bash ZSH🚀🚀.md",
     "1 WEB💻/css🍭/layout.md",
-    "1 WEB💻/Linux🐧💻/Linux basics.md",
-    "1 WEB💻/Dev Icons.md",
     "Untitled",
     "pasted images/Pasted image 20231216195347.png",
     "pasted images",
@@ -297,7 +298,6 @@
     "pasted images/Pasted image 20240104114353.png",
     "1 WEB💻/CMS🧐🧵🛝/headless SMC",
     "1 WEB💻/CMS🧐🧵🛝",
-    "1 WEB💻/Security🔒",
-    "1 WEB💻/Package managers📦🔧"
+    "1 WEB💻/Security🔒"
   ]
 }
