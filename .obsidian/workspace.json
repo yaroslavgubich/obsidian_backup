@@ -55,12 +55,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3d printing 🖨️ 🧊/Infill and strength.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Infill and strength"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "66e4cd34885d9d9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "a42a929e652fc8a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "e6252d6b8e3624c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "psycho.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "psycho"
             }
           },
           {
@@ -92,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -124,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#structure",
+                "query": "start",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -248,20 +290,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d12d34acf29d360d",
+  "active": "e6252d6b8e3624c1",
   "lastOpenFiles": [
+    "Untitled.md",
+    "psycho.md",
+    "telegram bot one to many.md",
+    "Untitled.canvas",
+    "1 WEB💻/GIT🐱/🐱GIT methods🐱.md",
+    "wsl 1.md",
+    "ZSH.md",
+    "vite.md",
+    "3d printing 🖨️ 🧊/Infill and strength.md",
     "Yarn/Pasted image 20250522125829.png",
     "1 WEB💻/React ⚛️.md",
-    "3d printing 🖨️ 🧊/Infill and strength.md",
     "3d printing 🖨️ 🧊",
     "1 WEB💻/Fake project structure.md",
     "1 WEB💻/GIT🐱/git history.md",
     "1 WEB💻/Ruby💎🔴/🧊Classes OOP in Ruby.md",
     "1 WEB💻/WEB Tools 🔧/AJAX.md",
     "Air BnB project.md",
-    "vite.md",
     "1 WEB💻/Templates ⚙🗒️.md",
-    "1 WEB💻/GIT🐱/🐱GIT methods🐱.md",
     "1 WEB💻/GIT🐱/Cheatsheet online.md",
     "1 WEB💻/GIT🐱/Command 💻cheatsheet.md",
     "1 WEB💻/GIT🐱/github and cli.md",
@@ -273,18 +321,13 @@
     "1 WEB💻/bugfixes 🪲/nextJS⏭️.md",
     "Vercel 🔺.md",
     "career paths 🔧💵/Student or trainee or intern.md",
-    "career paths 🔧💵/freelance.md",
     "Yarn/Pasted image 20250417114406.png",
     "Yarn",
     "Business",
-    "career paths 🔧💵/junior corporate job.md",
     "career paths 🔧💵",
-    "1 WEB💻/Terminal Bash ZSH🚀🚀.md",
-    "1 WEB💻/css🍭/layout.md",
     "Untitled",
     "pasted images/Pasted image 20231216195347.png",
     "pasted images",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "pasted image",
@@ -295,7 +338,6 @@
     "pasted images/Pasted image 20240209184942.png",
     "pasted images/Pasted image 20240207192045.png",
     "pasted images/Pasted image 20240207185121.png",
-    "pasted images/Pasted image 20240104114353.png",
     "1 WEB💻/CMS🧐🧵🛝/headless SMC",
     "1 WEB💻/CMS🧐🧵🛝",
     "1 WEB💻/Security🔒"

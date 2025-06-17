@@ -1,4 +1,10 @@
 
+#find #all #commands 
+
+``` git
+alias | grep 'git'
+```
+
 
 
 
@@ -17,7 +23,7 @@ git diff yar-feature origin/yar-feature
 ### ✅ Or if you are already **on `yar-feature` branch**, you can just run:
 
 ```bash
-git diff origin/yar-feature
+git diff origin/feature
 ```
 
 This shows all differences between your **local `yar-feature`** branch and the **remote `origin/yar-feature`**.
