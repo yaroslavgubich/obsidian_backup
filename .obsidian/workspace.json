@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3d printing 🖨️ 🧊/nozzles and width height chart.md",
+                "file": "3d printing 🖨️ 🧊/Filament properties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nozzles and width height chart"
+              "title": "Filament properties"
             }
           },
           {
@@ -201,8 +201,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -307,12 +306,14 @@
   },
   "active": "4cb5bb28fdf99cdd",
   "lastOpenFiles": [
+    "1 WEB💻/Vs Code shortcuts.md",
+    "3d printing 🖨️ 🧊/Filament properties.md",
+    "Запит.md",
+    "3d printing 🖨️ 🧊/nozzles and width height chart.md",
     "Untitled.md",
     "vite.md",
     "wsl 1.md",
     "ZSH.md",
-    "Запит.md",
-    "3d printing 🖨️ 🧊/nozzles and width height chart.md",
     "Yarn/Pasted image 20250623150513.png",
     "Yarn/Pasted image 20250623150449.png",
     "Yarn/Pasted image 20250623150436.png",
@@ -337,7 +338,6 @@
     "1 WEB💻/GIT🐱/github and cli.md",
     "1 WEB💻/GIT🐱/git stash.md",
     "1 WEB💻/GIT🐱/Git fix mistake or upload previous version.md",
-    "1 WEB💻/GIT🐱/Conventions.md",
     "Yarn/Pasted image 20250417114406.png",
     "Yarn",
     "Business",
