@@ -120,6 +120,48 @@
             }
           },
           {
+            "id": "bf15e71e00d3a94c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3d printing 🖨️ 🧊/Better overhangs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Better overhangs"
+            }
+          },
+          {
+            "id": "591023f6aa6f8bd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "166761e4334c4677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3d printing 🖨️ 🧊/nozzles and width height chart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nozzles and width height chart"
+            }
+          },
+          {
             "id": "25aced2f891d6121",
             "type": "leaf",
             "state": {
@@ -148,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -180,7 +222,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#nozzle",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -304,24 +346,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cb5bb28fdf99cdd",
+  "active": "166761e4334c4677",
   "lastOpenFiles": [
-    "1 WEB💻/Vs Code shortcuts.md",
+    "3d printing 🖨️ 🧊/Infill and strength.md",
     "3d printing 🖨️ 🧊/Filament properties.md",
+    "3d printing 🖨️ 🧊/Better overhangs.md",
+    "etsy.md",
+    "Untitled.md",
+    "telegram bot one to many.md",
+    "tmix.md",
+    "Untitled 1.md",
+    "Untitled 1",
+    "responce to a freelancer Viktoriia S..md",
+    "1 WEB💻/Vs Code shortcuts.md",
     "Запит.md",
     "3d printing 🖨️ 🧊/nozzles and width height chart.md",
-    "Untitled.md",
     "vite.md",
     "wsl 1.md",
     "ZSH.md",
     "Yarn/Pasted image 20250623150513.png",
     "Yarn/Pasted image 20250623150449.png",
     "Yarn/Pasted image 20250623150436.png",
-    "3d printing 🖨️ 🧊/Infill and strength.md",
     "Air BnB project.md",
     "psycho.md",
     "Speed and Productivity.md",
-    "telegram bot one to many.md",
     "Untitled.canvas",
     "Vercel 🔺.md",
     "1 WEB💻/GIT🐱/🐱GIT methods🐱.md",
@@ -333,11 +381,6 @@
     "1 WEB💻/Ruby💎🔴/🧊Classes OOP in Ruby.md",
     "1 WEB💻/WEB Tools 🔧/AJAX.md",
     "1 WEB💻/Templates ⚙🗒️.md",
-    "1 WEB💻/GIT🐱/Cheatsheet online.md",
-    "1 WEB💻/GIT🐱/Command 💻cheatsheet.md",
-    "1 WEB💻/GIT🐱/github and cli.md",
-    "1 WEB💻/GIT🐱/git stash.md",
-    "1 WEB💻/GIT🐱/Git fix mistake or upload previous version.md",
     "Yarn/Pasted image 20250417114406.png",
     "Yarn",
     "Business",
@@ -353,7 +396,6 @@
     "pasted images/Pasted image 20240314131532.png",
     "pasted images/Pasted image 20240209194519.png",
     "1 WEB💻/CMS🧐🧵🛝/headless SMC",
-    "1 WEB💻/CMS🧐🧵🛝",
-    "1 WEB💻/Security🔒"
+    "1 WEB💻/CMS🧐🧵🛝"
   ]
 }
