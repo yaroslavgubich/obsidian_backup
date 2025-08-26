@@ -162,6 +162,20 @@
             }
           },
           {
+            "id": "fa601db459a00d4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3d printing 🖨️ 🧊/nozzles and width height chart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nozzles and width height chart"
+            }
+          },
+          {
             "id": "25aced2f891d6121",
             "type": "leaf",
             "state": {
@@ -190,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -338,6 +352,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -346,8 +361,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "166761e4334c4677",
+  "active": "fa601db459a00d4b",
   "lastOpenFiles": [
+    "Yarn/Pasted image 20250826151944.png",
     "3d printing 🖨️ 🧊/Infill and strength.md",
     "3d printing 🖨️ 🧊/Filament properties.md",
     "3d printing 🖨️ 🧊/Better overhangs.md",
@@ -380,7 +396,6 @@
     "1 WEB💻/GIT🐱/git history.md",
     "1 WEB💻/Ruby💎🔴/🧊Classes OOP in Ruby.md",
     "1 WEB💻/WEB Tools 🔧/AJAX.md",
-    "1 WEB💻/Templates ⚙🗒️.md",
     "Yarn/Pasted image 20250417114406.png",
     "Yarn",
     "Business",
